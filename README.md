@@ -1,6 +1,6 @@
 ## ATFBlast/U
 
-[![photo](images/photo.small.jpg)](images/photo.jpg?raw=true)
+[![photo](images/photo.small.jpg)](images/photo.jpg)
 
 ATF16V8, GAL16V8, ATF22V10 and GAL22V10 chips programmer.
 
